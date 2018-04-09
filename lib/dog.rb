@@ -3,5 +3,3 @@ class Dog
     puts "Woof!"
   end
 end
-
-Dog.bark
